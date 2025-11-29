@@ -1,0 +1,5 @@
+{
+  "name": "Jeu de Dés Moderne",
+  "description": "Une application de lancer de dés élégante et réactive, conçue avec React et Tailwind CSS. Idéale pour les jeux de société ou les décisions rapides.",
+  "requestFramePermissions": []
+}
